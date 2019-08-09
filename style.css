@@ -1,0 +1,77 @@
+/* Create spacing around aboutMe */
+.aboutMe {
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+}
+
+/* A div which contains all of the headers */
+#bigDiv {
+    display: flex;
+    justify-content: space-around;
+    background-color: brown;
+}
+
+.academics{
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+}
+
+.achievementsSection {
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    /* margin: 5px; */
+}
+
+.contactInfo{
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+}
+
+
+#allAboutMe {
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+}
+
+.image img{ 
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    padding-right: 25px;
+}
+
+#informationDiv{
+    display: flex;
+}
+
+.academicsSection {
+    height: 200px;
+    padding: 10px;
+    padding-right: 333px;
+} 
+
+.books img{
+    padding: 25px;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin-left: 75%;
+    position: absolute;
+    bottom: -150px;
+}
+
+.achievements {
+    padding-right: 25%;
+    padding-top: 5%;
+}
+
+#achievementImage img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
